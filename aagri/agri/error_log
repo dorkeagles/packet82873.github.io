@@ -1,0 +1,20 @@
+[29-Jan-2023 16:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getIPAddress() in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 4
+[29-Jan-2023 16:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getIPAddress() in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 4
+[29-Jan-2023 16:36:47 UTC] PHP Parse error:  syntax error, unexpected 'vu' (T_STRING), expecting ',' or ')' in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 4
+[29-Jan-2023 16:37:06 UTC] PHP Parse error:  syntax error, unexpected 'vu' (T_STRING), expecting ',' or ')' in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 4
+[29-Jan-2023 16:37:08 UTC] PHP Parse error:  syntax error, unexpected 'vu' (T_STRING), expecting ',' or ')' in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 4
+[29-Jan-2023 16:37:16 UTC] PHP Parse error:  syntax error, unexpected 'vu' (T_STRING), expecting ',' or ')' in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 4
+[29-Jan-2023 16:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ate_default_timezone_set() in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 2
+[29-Jan-2023 16:41:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ate_default_timezone_set() in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/newloc/public_html/zrquivo/css/js/aagri/agri/index.php on line 2
